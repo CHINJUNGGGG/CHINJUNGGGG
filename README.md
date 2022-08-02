@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Chatbot, Face recognition**
 
-- 👨‍💻 All of my projects are available at [https://www.petta.co.th https://fiber.3bb.co.th https://shopteenii.com](https://www.petta.co.th https://fiber.3bb.co.th https://shopteenii.com)
+- 👨‍💻 All of my projects are available at [https://www.petta.co.th https://fiber.3bb.co.th https://shopteenii.com/](https://www.petta.co.th https://fiber.3bb.co.th https://shopteenii.com)
 
 - 📫 How to reach me **panupong.klueakaew@gmail.com**
 
