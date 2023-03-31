@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm CHINJUNG</h1>
-<h3 align="center">Backend developer from Thailand</h3>
+<h3 align="center">Full-Stack Developer from Thailand</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chinjungggg&label=Profile%20views&color=0e75b6&style=flat" alt="chinjungggg" /> </p>
 
-- 🔭 I’m currently working on [3BB](https://fiber.3bb.co.th/)
+- 🔭 I’m currently working on [JSTC](https://jascare.net)
 
-- 🌱 I’m currently learning **Chatbot, Face recognition**
+- 🌱 I’m currently learning **Data minning and Data warehouse, Cyber security**
 
-- 👨‍💻 All of my projects are available at [https://www.petta.co.th https://fiber.3bb.co.th https://shopteenii.com/](https://www.petta.co.th https://fiber.3bb.co.th https://shopteenii.com)
+- 👨‍💻 All of my projects are available at [https://www.petta.co.th https://shopteenii.com/](https://www.petta.co.th https://shopteenii.com)
 
 - 📫 How to reach me **panupong.klueakaew@gmail.com**
 
